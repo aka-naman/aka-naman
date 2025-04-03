@@ -68,7 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50">
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/aka-naman" target="_blank">
+  <a href="https://twitter.com/aka_naman_" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50">
   </a>
   &nbsp;&nbsp;
