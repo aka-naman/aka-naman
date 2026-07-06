@@ -12,7 +12,6 @@
 🔹 Constantly exploring **LLMs, NLP, and Computer Vision**  
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=30,2,30&height=120&section=header&text=Hi,%20I'm%20Naman&fontSize=30" />
 
 ## 📚 What I'm currently up to  
 
